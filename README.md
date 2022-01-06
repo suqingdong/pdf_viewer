@@ -4,7 +4,7 @@
 ## QuickStart
 > Copy the `pdf_viewer` directory to your web
 ```bash
-git clone git@github.com:suqingdong/pdf_viewer.git
+git clone https://github.com/suqingdong/pdf_viewer.git
 
 cp -R pdf_viewer/pdf_viewer /var/www/html/
 ```
@@ -17,6 +17,3 @@ cp -R pdf_viewer/pdf_viewer /var/www/html/
 > - [viewer.js](https://mozilla.github.io/pdf.js/web/viewer.js)
 > - [viewer.css](https://mozilla.github.io/pdf.js/web/viewer.css)
 > - [viewer.html](https://mozilla.github.io/pdf.js/web/viewer.html)
-
-
-
