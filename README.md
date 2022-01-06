@@ -1,13 +1,16 @@
 # Portable PDF Viewer with [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
+
 > Something change from: https://mozilla.github.io/pdf.js/web/viewer
 
 ## QuickStart
 > Copy the `pdf_viewer` directory to your web
+
 ```bash
 git clone https://github.com/suqingdong/pdf_viewer.git
 
 cp -R pdf_viewer/pdf_viewer /var/www/html/
 ```
+
 > Open your browser: `WEB_HOST/pdf_viewer/?file=/path/to/your.pdf`
 
 
