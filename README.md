@@ -2,7 +2,7 @@
 
 > Something change from: https://mozilla.github.io/pdf.js/web/viewer
 
-## QuickStart
+## Quick Start
 > Copy the `pdf_viewer` directory to your web
 
 ```bash
@@ -13,8 +13,10 @@ cp -R pdf_viewer/pdf_viewer /var/www/html/
 
 > Open your browser: `WEB_HOST/pdf_viewer/?file=/path/to/your.pdf`
 
+![cn](https://suqingdong.github.io/pdf_viewer/images/preview-cn.png)
+![en](https://suqingdong.github.io/pdf_viewer/images/preview-en.png)
 
-## Original Source
+## Original Sources
 > - [pdf.js](https://mozilla.github.io/pdf.js/build/pdf.js)
 > - [pdf.worker.js](https://mozilla.github.io/pdf.js/build/pdf.worker.js)
 > - [viewer.js](https://mozilla.github.io/pdf.js/web/viewer.js)
